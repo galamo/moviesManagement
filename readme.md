@@ -118,7 +118,16 @@ add new class!
 - when movie is removed - update the ls
 - when movie is added - update the ls
 
-
 # Homework
+
 צור תיבת טקסט שכל הוספה של אות מחליפה את הצבע של הטקסט בין 2 צבעים קבועים.
 לאותה תיבת טקסט הוסף תכונה שכשאר עוזבים את התיבה עולה הודעה עם התוכן שלה.
+
+# GIT
+
+1. select a folder
+2. run `git init`
+3. run `git config --global user.name <USER>`
+4. run `git config --global user.email <EMAIL>`
+5. run `git add <FileName>`
+6. run `git commit -m <CommitMessage>`
