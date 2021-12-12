@@ -1,0 +1,35 @@
+.main-header {
+  text-align: center;
+  background-color: rgba(0.5, 0.5, 0.5, 0.1);
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.selected-row {
+  background-color: yellow;
+}
+
+.inline-block h1,
+h2 {
+  display: inline-block;
+}
+
+.defaultImageSize {
+  height: 100px;
+  width: 100px;
+}
+
+.increasedImageSize {
+  height: 150px !important;
+  width: 150px !important;
+}
+
+.blackTheme {
+  background-color: #888585;
+}
+
+.whiteTheme {
+  background-color: white;
+}
