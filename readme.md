@@ -131,3 +131,18 @@ add new class!
 4. run `git config --global user.email <EMAIL>`
 5. run `git add <FileName>`
 6. run `git commit -m <CommitMessage>`
+
+## create remote repository
+
+1. Login to Github
+2. Click New - create repository
+3. Insert repository name
+4. Run on your local repository the commands from the "existing repo" section in the service
+5. `git remote add origin https://github.com/USER/REPO.git`
+6. `git branch -M main`
+7. `git push -u origin main`
+
+## Error in login
+
+run `git update-git-for-windows`
+and repeat 1-5 => create remote repository
