@@ -12,3 +12,5 @@ function getAvarage() {
 function drawAvarage(value) {
   document.getElementById("avgResult").innerText = value;
 }
+
+console.log(1111);
